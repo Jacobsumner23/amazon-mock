@@ -1,0 +1,86 @@
+body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2.0;
+    margin-top: 40px;
+}
+.sign-in {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: justify;
+    border: 1.2px solid lightgray;
+    border-radius: 2px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    
+}
+
+h1 {
+    justify-content: left;
+    padding-right: 230px;
+    margin-bottom: 5px;
+    margin-top: -15px;
+    font-weight: lighter;
+}
+
+input {
+    width: 320px;
+    height: 20px;
+}
+.benjamin {
+    width: 327px;
+    height: 28px;
+    background-color: orange;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.custom {
+    width: 335px;
+    height: 27px;
+    margin-bottom: 50px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 14px;
+}
+
+label {
+    font-size: 14px;
+}
+
+.pwd {
+    margin-top: 10px;
+    text-indent: 40px;
+}
+
+.help {
+    text-indent: 12px;
+}
+
+h3 {
+    font-weight: lighter;
+    color: gray;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.links {
+    font-size: 10px;
+}
+
+footer {
+    border-top: 1.5px solid gray;
+    padding: 30px;
+    font-size: 12px;
+    margin-bottom: 40px;
+}
